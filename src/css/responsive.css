@@ -1,0 +1,10 @@
+@media(max-width:400px) {
+    .blog-preview {
+        width: 327px;
+    }
+
+    .blog-preview .blog-img img{
+        width: 279px;
+        height: 200;
+    }
+}
